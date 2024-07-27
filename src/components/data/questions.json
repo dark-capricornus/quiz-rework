@@ -1,0 +1,52 @@
+[
+    {
+        "title": "What is JSON and how is it used in web development?",
+        "options": [
+            "A lightweight data interchange format",
+            "A type of database",
+            "A programming language",
+            "A web server"
+        ],
+        "correctOptionIndex": 0
+    },
+    {
+        "title": "How do you parse JSON data in JavaScript?",
+        "options": [
+            "Using the JSON.parse() method",
+            "Using the parseJSON() method",
+            "Using the parse() function",
+            "Using the JSON.stringify() method"
+        ],
+        "correctOptionIndex": 0
+    },
+    {
+        "title": "Explain the difference between JSON and XML.",
+        "options": [
+            "JSON is human-readable; XML is not",
+            "JSON uses a stricter syntax than XML",
+            "JSON is faster and lighter than XML",
+            "JSON can only be used in JavaScript; XML can be used in any language"
+        ],
+        "correctOptionIndex": 2
+    },
+    {
+        "title": "How can you handle nested JSON objects in Python?",
+        "options": [
+            "Using the json.loads() method",
+            "Using the json.dumps() method",
+            "Using the json.parse() method",
+            "Using the json.load() method"
+        ],
+        "correctOptionIndex": 0
+    },
+    {
+        "title": "What are some common security concerns when working with JSON data?",
+        "options": [
+            "SQL injection",
+            "Cross-site scripting (XSS)",
+            "JSON injection",
+            "All of the above"
+        ],
+        "correctOptionIndex": 3
+    }
+]
